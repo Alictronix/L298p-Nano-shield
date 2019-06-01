@@ -1,7 +1,7 @@
 # L298p-Nano-shield
 
-Function              pins per Ch. A        pins per Ch. B
-Direction                D12                        D13
-PWM                      D3                          D11
-Brake                     D9                          D8
-Current Sensing      A0                         A1
+Function  ;            pins per Ch. A ;       pins per Ch. B <br>
+Direction ;               D12      ;                  D13    <br>
+PWM      ;                D3       ;                   D11   <br>
+Brake        ;             D9     ;                     D8   <br>
+Current Sensing  ;    A0          ;              A1         <br>
