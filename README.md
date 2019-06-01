@@ -8,3 +8,5 @@ Current Sensing  ;    A0          ;              A1         <br>
 
 
 ![Nano Shield](https://github.com/Alictronix/L298p-Nano-shield/blob/master/nano-shield.jpg)
+
+![Full Setup](https://github.com/Alictronix/L298p-Nano-shield/blob/master/IMG_2448.JPG)
